@@ -61,7 +61,7 @@ To use the database:
 3. The tables will be created in your database
 
 ---
-
+👌👌
 ## 🤝 Group Collaboration
 
 This project was built collaboratively by the following members of the Power Learn Project group:
